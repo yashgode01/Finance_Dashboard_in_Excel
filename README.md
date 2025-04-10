@@ -8,8 +8,8 @@ The dataset used for this analysis is a .XLSX file. Having
 
 ## Tools Used:
 - Excel
-- Pivot Tables
-- licers
+- Pivot Table
+- Slicer
 
 ## Below are the key point indicators:
 Key Metrics:
