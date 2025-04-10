@@ -5,10 +5,12 @@ Project Overview: This Financial Analysis Dashboard, designed to provide insight
 The dataset used for this analysis is a excel file and having - fields and - records.
 
 ## Tools:
-Excel, Pivot Tables, Slicers
+- Excel
+- Pivot Tables
+- licers
 
 ## Below are the key point indicators:
-Key Metrics
+Key Metrics:
 - Total Budget : 1236K: The allocated budget for a specific period.
 - Actual Expense : 1331K: The amount spent so far.
 - Total Profit/Loss : -95093: A negative value indicates a financial loss.
