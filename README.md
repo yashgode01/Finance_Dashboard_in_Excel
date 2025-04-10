@@ -6,7 +6,7 @@ The dataset used for this analysis is a .XLSX file. Having
 - Fields
 - Records
 
-## Tools:
+## Tools Used:
 - Excel
 - Pivot Tables
 - licers
