@@ -1,5 +1,5 @@
 ## Table Of Contents
-Project Overview: This Financial Analysis Dashboard, designed to provide insights into budget, expenses, profit/loss, and transaction trends. Here’s a breakdown of the key sections:
+Project Overview: This Financial Analysis Interactive Dashboard, designed to provide insights into budget, expenses, profit/loss, and transaction trends. Here’s a breakdown of the key sections:
 
 ## Data Sources:
 The dataset used for this analysis is a .XLSX file. Having
