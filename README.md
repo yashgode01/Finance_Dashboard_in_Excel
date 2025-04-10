@@ -3,8 +3,8 @@ Project Overview: This Financial Analysis Dashboard, designed to provide insight
 
 ## Data Sources:
 The dataset used for this analysis is a .XLSX file. Having
-- Fields
-- Records
+- 8 Fields
+- 450 Records
 
 ## Tools Used:
 - Excel
