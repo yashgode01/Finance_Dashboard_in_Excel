@@ -8,7 +8,7 @@ The dataset used for this analysis is a excel file and having - fields and - rec
 Excel, Pivot Tables, Slicers
 
 ## Below are the key point indicators:
-KPI Requirements
+Key Metrics
 - Total Budget : 1236K: The allocated budget for a specific period.
 - Actual Expense : 1331K: The amount spent so far.
 - Total Profit/Loss : -95093: A negative value indicates a financial loss.
