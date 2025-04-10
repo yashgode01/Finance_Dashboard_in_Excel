@@ -2,7 +2,9 @@
 Project Overview: This Financial Analysis Dashboard, designed to provide insights into budget, expenses, profit/loss, and transaction trends. Here’s a breakdown of the key sections:
 
 ## Data Sources:
-The dataset used for this analysis is a excel file and having - fields and - records.
+The dataset used for this analysis is a excel file. Having
+- Fields
+- Records
 
 ## Tools:
 - Excel
